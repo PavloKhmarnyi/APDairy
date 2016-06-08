@@ -1,4 +1,4 @@
-package com.example.pavlo.apdairy20.utilities;
+package com.example.pavlo.apdairy20.nasa_apod_api.utilities;
 
 /**
  * Created by pavlo on 08.06.16.
